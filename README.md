@@ -1,2 +1,2 @@
-# Writings
+# Writing
 Works In Progress

@@ -1,0 +1,17 @@
+Product System Development and Operation - Narrative
+----------------------------------------------------
+
+I am trying to tell a story about the environment in which products are produced and consumed by introducing the concept of the product system--a complex system that is composed of the product being produced for consumption
+and the supporting mechanisms that enable that consumption--and a model that describes product systems and their relationships between producers and consumers. I am also trying to demonstrate that this environment is competitive 
+in both an economic sense and an evolutionary sense. Once I have described the product system model, I am going to apply the model to examine the following questions:
+
+  * What makes one product more attractive to consumers than another, similar product?
+  * Why are some producers more successful than others? 
+  * What strategies do successful producers employ to increase longevity? 
+  * Can these strategies be applied to any producers and subsequently increase the probability of the producer's survival? 
+
+As part of analyzing these questions, I am going to use the model to simulate solutions and analyze the results.
+
+I am going to conclude the paper by discussing the limitations with the model and the simulation experiment and propose a research program to address these limitations and provide deeper insight into this subject.
+
+
